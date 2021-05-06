@@ -14,7 +14,7 @@ kubect get no -o wide
 ## 3. Install a demo application 
 See https://github.com/xxradar/app_routable_demo, but any microservice demo app should work of course.
 ```
-git clone https://github.com/xxradar/app_routable_demo.git
+git clone https://github.com/kubiosec/app_routable_demo.git
 cd ./app_routable_demo
 ./setup.sh
 watch kubectl get po -n app-routable-demo

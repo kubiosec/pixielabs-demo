@@ -1,6 +1,6 @@
 ## 1. Setting up a k8s cluster
 For the sake of this demo I will be using a managed kubernetes cluster on the DigitalOcean platform. 
-It should work on other clusters to, as I tested also on a self managed kubeadm cluster on AWS.
+It should work on other clusters to. I tested also on a self managed kubeadm cluster on AWS.
 Make sure your nodes have enough memory available. (8G or so)
 
 ## 2. Verify access to cluster

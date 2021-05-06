@@ -27,6 +27,7 @@ bash -c "$(curl -fsSL https://withpixie.ai/install.sh)"
 ```
 When you are installing on Mac, your browser window will open automatically asking you to sign in with a Google account.
 Return to the CLI and complete the instructions
+### 2. Deploy the PX application on your cluster
 ```
 px deploy
 ```

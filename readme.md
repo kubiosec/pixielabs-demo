@@ -1,5 +1,5 @@
 # Setting up a pixielabs demo
-![Welcome(https://github.com/kubiosec/pixielabs-demo/blob/main/images/Screenshot%202021-05-06%20at%2011.59.32.png)
+![Welcome(https://github.com/kubiosec/pixielabs-demo/raw/main/images/Screenshot%202021-05-06%20at%2011.59.32.png)
 ## 1. Setting up a k8s cluster
 For the sake of this demo I will be using a managed kubernetes cluster on the DigitalOcean platform. 
 It should work on other clusters to. I tested also on a self managed kubeadm cluster on AWS.

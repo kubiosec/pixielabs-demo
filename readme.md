@@ -1,4 +1,4 @@
-# Setting up a pixielabs demo
+# Setting up a pixielabs.ai demo
 ![Welcome](https://github.com/kubiosec/pixielabs-demo/raw/main/images/Screenshot%202021-05-06%20at%2011.59.32.png)
 
 ## 1. Setting up a k8s cluster

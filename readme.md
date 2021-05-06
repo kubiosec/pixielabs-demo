@@ -27,7 +27,7 @@ Return to the CLI and complete the instructions
 ```
 px deploy
 ```
-If you are using a non-supported cluster type, chances are that it will work as I tested it on DigitalOcean.
-Follow the instructions.
-When finished, open a browser and access https://work.withpixie.ai/
+If you are using a non-supported cluster type, chances are that it will work as I tested it on DigitalOcean.<br>
+Follow the instructions.<br>
+When finished, open a browser and access https://work.withpixie.ai/<br>
 Done !!!
